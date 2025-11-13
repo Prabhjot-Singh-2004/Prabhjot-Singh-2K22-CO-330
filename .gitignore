@@ -1,0 +1,4 @@
+venv/
+boostly.db
+__pycache__/
+*.pyc
